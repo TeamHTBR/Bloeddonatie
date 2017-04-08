@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Thibaut\Documents\1617PROJ1Bloeddonatie-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e68874b5b9a417418afbabd1e9126f22e6f43c56">
+        <dex dex="C:\Users\Thibaut\Documents\1617PROJ1Bloeddonatie-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2d5406d3dcc080c0f7a8808a28742efe5daa92fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Thibaut\Documents\1617PROJ1Bloeddonatie-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Thibaut\Documents\1617PROJ1Bloeddonatie-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_424fa8b854edd12645a7e31b0ec9af5b79d7acb4\classes.dex" />
+    </item>
+
+</items>

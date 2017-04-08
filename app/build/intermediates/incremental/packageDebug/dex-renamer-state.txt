@@ -1,0 +1,7 @@
+#Sat Apr 08 15:27:41 CEST 2017
+base.0=C\:\\Users\\Thibaut\\Documents\\1617PROJ1Bloeddonatie-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_424fa8b854edd12645a7e31b0ec9af5b79d7acb4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Thibaut\\Documents\\1617PROJ1Bloeddonatie-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d5406d3dcc080c0f7a8808a28742efe5daa92fc\\classes.dex
+base.1=C\:\\Users\\Thibaut\\Documents\\1617PROJ1Bloeddonatie-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d5406d3dcc080c0f7a8808a28742efe5daa92fc
+file.0=C\:\\Users\\Thibaut\\Documents\\1617PROJ1Bloeddonatie-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_424fa8b854edd12645a7e31b0ec9af5b79d7acb4\\classes.dex
